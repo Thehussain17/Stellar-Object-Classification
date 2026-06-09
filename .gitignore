@@ -1,0 +1,17 @@
+# Backup files
+*_backup.ipynb
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (large binary - optional: remove this line if you want to push the model)
+# *.joblib
+
+# OS
+.DS_Store
+Thumbs.db
